@@ -31,7 +31,7 @@ const routes = [
     {
         name: "UpdateBook",
         component: UpdateBookPage,
-        path: '/update'
+        path: '/update/:id'
     },
 ]
 
